@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1",
+    "title": "Sagra del Cinghiale",
+    "type": "Food & Wine",
+    "location": "Massa Marittima",
+    "coords": {
+      "lat": 43.0482,
+      "lng": 10.8896
+    },
+    "date": "2025-08-20",
+    "rating": 4.7,
+    "description": "Degustazioni tipiche, musica dal vivo e mercatini artigianali in piazza."
+  },
+  {
+    "id": "2",
+    "title": "Concerto al Tramonto",
+    "type": "Music",
+    "location": "Follonica",
+    "coords": {
+      "lat": 42.9279,
+      "lng": 10.7643
+    },
+    "date": "2025-08-22",
+    "rating": 4.5,
+    "description": "Live band sulla spiaggia al tramonto."
+  }
+]
