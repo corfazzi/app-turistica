@@ -1,0 +1,15 @@
+{
+  "name": "app-turistica",
+  "version": "1.0.0",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "app-turistica",
+      "version": "1.0.0",
+      "dependencies": {},
+      "devDependencies": {}
+    }
+  },
+  "dependencies": {}
+}
